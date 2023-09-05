@@ -1,5 +1,5 @@
 ### Hi there 👋
-- ✨ I want to be AI researcher  
+✨ I want to be AI researcher  
 🔭 I’m currently working on KIST  
 🌱 I’m currently learning generative model  
 📫 How to reach me: study929@ewhain.net
