@@ -1,7 +1,7 @@
 ### Hi there 👋
-✨ My dream is AI researcher
-🔭 I’m currently working on KIST
-🌱 I’m currently learning generative model
+✨ My dream is AI researcher\n
+🔭 I’m currently working on KIST\n
+🌱 I’m currently learning generative model\n
 📫 How to reach me: study929@ewhain.net
 
 <!--
