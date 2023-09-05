@@ -1,4 +1,8 @@
 ### Hi there 👋
+## I want to be AI resheacher
+🔭 I’m currently working on KIST
+🌱 I’m currently learning generative model
+📫 How to reach me: study929@ewhain.net
 
 <!--
 **hanajibsa/hanajibsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
